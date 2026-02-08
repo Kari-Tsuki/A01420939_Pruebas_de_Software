@@ -1,0 +1,8 @@
+Resultados de estadisticas descriptivas
+---------------------------------------
+Media: 242.32
+Mediana: 239.5
+Moda: 393.0
+Varianza Poblacional: 21099.917599999997
+Desviación Estandar: 145.25810683056557
+Tiempo de ejecución: 0.0005 segundos
