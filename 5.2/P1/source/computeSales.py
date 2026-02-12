@@ -85,13 +85,13 @@ def main():  # pylint: disable=too-many-locals, too-many-statements
     with open(result_file, "w", encoding="utf8") as f:
         f.write("--- Resultado de Ventas --- \n")
 
-        f.write(f"Total de ventas: ${total_sales}")
+        f.write(f"Total de ventas: ${total_sales:.2f}")
         if errors:
             f.write("Errores encontrados:\n")
             for e in errors:
                 f.write(f"- {e}\n")
 
-        f.write(f"\nTiempo de ejecución: {tiempo_ejecucion:.2f} segundos\n")
+        f.write(f"\nTiempo de ejecución: {tiempo_ejecucion} segundos\n")
 
 
 if __name__ == "__main__":
