@@ -1,0 +1,3 @@
+--- Resultado de Ventas --- 
+Total de ventas: $2481.86
+Tiempo de ejecución: 0.009124755859375 segundos

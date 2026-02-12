@@ -3,4 +3,4 @@ Total de ventas: $165235.37Errores encontrados:
 - Producto desconocido, Elotes
 - Producto desconocido, Frijoles
 
-Tiempo de ejecución: 0.011217355728149414 segundos
+Tiempo de ejecución: 0.0006861686706542969 segundos
